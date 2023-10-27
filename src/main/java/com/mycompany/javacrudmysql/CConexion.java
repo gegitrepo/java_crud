@@ -17,10 +17,10 @@ public class CConexion {
     
     Connection conectar = null;
     
-    String usuario = "root";
-    String contrasena = "3529";
+    String usuario = "Gonzalo";
+    String contrasena = "GO1025GO";
     String bd = "bdescuela";
-    String ip = "localhost";
+    String ip = "172.172.92.27";
     String puerto = "3306";
     
     String cadena = "jdbc:mysql://"+ip+":"+puerto+"/"+bd;
